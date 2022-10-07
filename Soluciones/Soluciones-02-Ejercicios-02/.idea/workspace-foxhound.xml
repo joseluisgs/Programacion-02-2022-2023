@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2992dc37-c6d7-4527-bbc9-66ccd04bb89b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Soluciones-02-Ejercicios-02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/estructurada/Ej-01.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/estructurada/Ej-03.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/estructurada/Ej-04.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/estructurada/Ej-06.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/estructurada/Ej-07.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/estructurada/Ej-13.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/estructurada/Ej-16.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/estructurada/Ej-17.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/estructurada/Ej-18.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/estructurada/Ej-19.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/estructurada/Ej-22.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/estructurada/Ej-27.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/modular/Ej-31.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/modular/Ej-32.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/modular/Ej-33.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/modular/Ej-35.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectId" id="2FIZ9uEleQTBBbhk7DDUs5qpM2S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "code.cleanup.on.save": "true",
+    "last_opened_file_path": "/home/joseluisgs/Proyectos/Soluciones-02-Ejercicios-02",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.Ej_35Kt">
+    <configuration name="Ej_07Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ej_07Kt" />
+      <module name="Soluciones-02-Ejercicios-02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ej_31Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modular.Ej_31Kt" />
+      <module name="Soluciones-02-Ejercicios-02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ej_32Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modular.Ej_32Kt" />
+      <module name="Soluciones-02-Ejercicios-02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ej_33Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modular.Ej_33Kt" />
+      <module name="Soluciones-02-Ejercicios-02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ej_35Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modular.Ej_35Kt" />
+      <module name="Soluciones-02-Ejercicios-02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Ej_35Kt" />
+        <item itemvalue="Kotlin.Ej_33Kt" />
+        <item itemvalue="Kotlin.Ej_32Kt" />
+        <item itemvalue="Kotlin.Ej_31Kt" />
+        <item itemvalue="Kotlin.Ej_07Kt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2992dc37-c6d7-4527-bbc9-66ccd04bb89b" name="Changes" comment="" />
+      <created>1664181421515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664181421515</updated>
+      <workItem from="1664181429143" duration="5668000" />
+      <workItem from="1664260740220" duration="8116000" />
+      <workItem from="1664268991381" duration="1107000" />
+      <workItem from="1664786518244" duration="4934000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
